@@ -1,0 +1,2 @@
+
+document.write(" AFzal zaid !");
